@@ -21,6 +21,8 @@ to vendor specific file configuration from <http://ec2-downloads.s3.amazonaws.co
 ```bash
 $ git clone https://github.com/asantos2000/aws_vpn_config.git
 
+$ cd aws_vpn_config
+
 $ python setup.py build
 
 $ python setup.py install
