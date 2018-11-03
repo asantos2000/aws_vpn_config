@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+aws_vpn_config/__init__.py
+aws_vpn_config/__main__.py
+aws_vpn_config.egg-info/PKG-INFO
+aws_vpn_config.egg-info/SOURCES.txt
+aws_vpn_config.egg-info/dependency_links.txt
+aws_vpn_config.egg-info/requires.txt
+aws_vpn_config.egg-info/top_level.txt
+scripts/aws-vpn-config

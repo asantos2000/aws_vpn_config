@@ -1,0 +1,4 @@
+sh
+boto3
+lxml
+xmltodict

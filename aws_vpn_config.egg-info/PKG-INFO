@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: aws-vpn-config
+Version: 0.1.0
+Summary: Download VPN Configurations and convert to vendor config (As same as Download Configuration from AWS console).
+ Examples:  $ python vpn-config.py download --vpn-id vpn-08cad142f9189e87d -c 10. $ python vpn-config.py list
+Home-page: https://github.com/asantos2000/aws_vpn_config/
+Author: Anderson dos Santos
+Author-email: adsantos@gmail.com
+License: BSD
+Description: UNKNOWN
+Platform: Unix
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
