@@ -13,7 +13,8 @@ setup(
                 'sh',
                 'boto3',
                 'lxml',
-                'xmltodict'
+                'xmltodict',
+                'prettytable'
         ],
         license='BSD',
         platforms='Unix',

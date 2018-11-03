@@ -2,3 +2,4 @@ sh
 boto3
 lxml
 xmltodict
+prettytable
