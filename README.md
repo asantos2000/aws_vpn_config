@@ -105,3 +105,7 @@ Files created: customer-gateway-fortigate.xslt, vpn-11cad123f9876e90d.xml and vp
 ## References
 
 * [API for Download Configuration](https://forums.aws.amazon.com/thread.jspa?threadID=93449)
+
+## License
+
+Apache License Version 2.0
